@@ -7,7 +7,5 @@ First download this mod, then drag and drop all files into your GameData folder.
 2. **Download CTTP**         - https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases/download/1.0.1/CTTP.v1.0.1.zip
 3. **Download EVE**          - https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases/download/EVE-1.2.2-1/EnvironmentalVisualEnhancements-1.2.2.1.zip
 4. **Download Scatterer**    - https://github.com/LGhassen/Scatterer/releases/download/v0.0324/scatterer-0.0324.zip
-5. **Download KS3P**         - https://spacedock.info/mod/1618/KS3P/download/V4.0
-6. **Download Instantiator** - https://spacedock.info/mod/1624/INSTANTIATOR/download/V1.0
 
-**Install ALL of those mods correctly** - this should be as simple as dragging the correct folder to GameData unless stated otherwise. Atfer that, launch the game in 64 bit.
+**Install ALL of those mods correctly** - this should be as simple as dragging the correct folder to GameData unless stated otherwise. After that, launch the game in 64 bit.
