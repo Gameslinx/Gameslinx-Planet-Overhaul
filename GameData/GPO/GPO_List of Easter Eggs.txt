@@ -1,0 +1,64 @@
+//Don't read below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//I'm warning you - this contains a LOT of spoilers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//You asked for it
+
+EASTER EGG
+{
+	@Kopernicus:FOR[EasterEggs]
+	{
+		@Body[Niebos]
+		{
+			@PQS
+			{
+				@Mods
+				{
+					name = "Happy April Fools Day".
+				}
+			}
+		}
+	}
+}

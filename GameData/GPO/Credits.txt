@@ -1,0 +1,3 @@
+TMSP - Screamer Plugin, Kopernicus
+
+All authors of the other folders and plugins outside of "GPO" in this release.
