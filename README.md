@@ -7,8 +7,9 @@ First download this mod, then drag and drop all files into your GameData folder.
 2. **Download CTTP**         - https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases/download/1.0.1/CTTP.v1.0.1.zip
 3. **Download EVE**          - https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases/download/EVE-1.2.2-1/EnvironmentalVisualEnhancements-1.2.2.1.zip
 4. **Download Scatterer**    - https://github.com/LGhassen/Scatterer/releases/download/v0.0324/scatterer-0.0324.zip
-5. **Download INSTANTIATOR** - https://spacedock.info/mod/1624/INSTANTIATOR/download/V1.0
-6. **You MUST remove "ExampleConfig.cfg" from the Instantiator folder or it will not work**
+5. **Download SigmaReplacements** https://github.com/Sigma88/Sigma-Replacements/releases/download/B_v0.2.2/Sigma-Replacements_SkyBox.v0.2.2.zip
+6. **Download INSTANTIATOR** - https://spacedock.info/mod/1624/INSTANTIATOR/download/V1.0
+7. **You MUST remove "ExampleConfig.cfg" from the Instantiator folder or it will not work**
 
 **Install ALL of those mods correctly** - this should be as simple as dragging the correct folder to GameData unless stated otherwise. After that, launch the game in 64 bit.
 
