@@ -1,3 +1,10 @@
-TMSP - Screamer Plugin, Kopernicus
+TMSP - Kopernicus
+Blackrack - Scatterer
+WazWaz - Environmental Visual Enhancements
+TheWhiteGuardian - INSTANTIATOR
+TheWhiteGuardian - KS3P
+Sigma88 - SigmaReplacements - Skybox
+CTTP - Galileo and CaptRobau
 
-All authors of the other folders and plugins outside of "GPO" in this release.
+
+All authors of the other files and folders included in this mod outside of "GPO" in this release deserve appropriate credit.

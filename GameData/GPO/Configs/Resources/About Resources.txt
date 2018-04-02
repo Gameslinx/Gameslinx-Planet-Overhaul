@@ -1,0 +1,2 @@
+Resource configs have been temporarily removed to allow KSP to generate the resources for the planets.
+This allows Kerbnet to work.

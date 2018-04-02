@@ -56,7 +56,7 @@ EASTER EGG
 			{
 				@Mods
 				{
-					name = "Happy April Fools Day".
+					name = "You really thought it was going to be that easy? Happy April Fools.".
 				}
 			}
 		}
