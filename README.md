@@ -1,7 +1,7 @@
 Gameslinx's Planet Overhaul is a planet mod for Kerbal Space Program.
 This mod is licenced under **CC-BY-NC-ND 4.0.**
 
-First download this mod, then drag and drop all files into your GameData folder. Then proceed with the following install instructions:
+Proceed with the following install instructions:
 
 1. **Download Kopernicus**   - https://github.com/Kopernicus/Kopernicus/releases/
 2. **Download CTTP**         - https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases/
@@ -10,6 +10,7 @@ First download this mod, then drag and drop all files into your GameData folder.
 5. **Download SigmaReplacements** https://github.com/Sigma88/Sigma-Replacements/releases/
 6. **Download INSTANTIATOR** - https://spacedock.info/mod/1624/INSTANTIATOR/
 7. **You MUST remove "ExampleConfig.cfg" from the Instantiator folder or it will not work**
+8. **Download GPO**          - https://github.com/Gameslinx/Gameslinx-Planet-Overhaul/releases
 
 **Install ALL of those mods correctly** - this should be as simple as dragging the correct folder to GameData unless stated otherwise. After that, launch the game in 64 bit.
 
